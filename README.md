@@ -1,2 +1,2 @@
 # Home-Automation
-Home Automation Using Arduino And BlynkIot
+Home Automation Using ESP 32 And BlynkIot
